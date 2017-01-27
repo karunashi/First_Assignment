@@ -1,0 +1,20 @@
+.text {
+  color: lightblue;
+}
+
+.hone {
+	color: silver;
+}
+
+.bgtrans {
+	background-color: rgba(245, 245, 245, 0.30);
+}
+
+.bgblock {
+  pointer-events: none;
+  position: absolute;
+}
+
+.well {
+   background-color: rgba(245, 245, 245, 0.55);
+}
